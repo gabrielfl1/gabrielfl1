@@ -38,5 +38,5 @@ Busco oportunidades como **Desenvolvedor Backend .NET (Júnior ou Pleno)**.
 **Ferramentas:** Git, Postman
 
 📫 Contato
-* Email : [gabrielfl1997@gmail.com](@gabrielfl1997@gmail.com)
+* Email : gabrielfl1997@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/gabriel-ferreira-457964192](https://www.linkedin.com/in/gabriel-ferreira-457964192/)
