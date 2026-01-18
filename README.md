@@ -6,6 +6,6 @@ Busco oportunidades como **Desenvolvedor Backend .NET (Júnior ou Pleno)**.
 
 **Stack:** C#, .NET / ASP.NET Core, APIs REST, SQL (MySQL, SQL Server, PostgreSQL, SQLite), Testes de API, Git, Postman.
 
-📫 **Contato**
-Email: [gabrielfl1997@gmail.com](mailto:gabrielfl1997@gmail.com)
+📫 **Contato**  
+Email: [gabrielfl1997@gmail.com](mailto:gabrielfl1997@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/gabriel-ferreira-457964192](https://www.linkedin.com/in/gabriel-ferreira-457964192)
