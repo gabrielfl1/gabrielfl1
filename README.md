@@ -4,7 +4,14 @@ Minha experiência com qualidade de software reflete diretamente no backend que 
 
 Busco oportunidades como **Desenvolvedor Backend .NET (Júnior ou Pleno)**.
 
-**Stack:** C#, .NET / ASP.NET Core, APIs REST, SQL (MySQL, SQL Server, PostgreSQL, SQLite), Testes de API, Git, Postman.
+**Stack:** 
+* C#,  
+* .NET / Entity Framework / Dapper / ASP.NET Core,  
+* APIs REST,  
+* SQL (MySQL, SQL Server, PostgreSQL, SQLite),  
+* Testes de API,  
+* Git,  
+* Postman.  
 
 📫 **Contato**  
 Email: [gabrielfl1997@gmail.com](mailto:gabrielfl1997@gmail.com)  
